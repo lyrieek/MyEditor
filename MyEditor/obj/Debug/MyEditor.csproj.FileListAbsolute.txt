@@ -1,0 +1,10 @@
+D:\TH\1级项目\MyEditor\MyEditor\bin\Debug\MyEditor.exe.config
+D:\TH\1级项目\MyEditor\MyEditor\obj\Debug\MyEditor.csprojResolveAssemblyReference.cache
+D:\TH\1级项目\MyEditor\MyEditor\obj\Debug\MyEditor.Properties.Resources.resources
+D:\TH\1级项目\MyEditor\MyEditor\obj\Debug\MyEditor.csproj.GenerateResource.Cache
+D:\TH\1级项目\MyEditor\MyEditor\bin\Debug\MyEditor.exe
+D:\TH\1级项目\MyEditor\MyEditor\bin\Debug\MyEditor.pdb
+D:\TH\1级项目\MyEditor\MyEditor\obj\Debug\MyEditor.MainForm.resources
+D:\TH\1级项目\MyEditor\MyEditor\obj\Debug\MyEditor.exe
+D:\TH\1级项目\MyEditor\MyEditor\obj\Debug\MyEditor.pdb
+D:\TH\1级项目\MyEditor\MyEditor\obj\Debug\MyEditor.Set.resources
